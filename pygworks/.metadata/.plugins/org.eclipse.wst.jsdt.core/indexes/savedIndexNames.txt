@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+D:\Java\pygworks\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2121564791.index
+696552386.index
+2486844055.index
+2087394629.index
+855884064.index
+1976670294.index
+765060057.index
+2628172764.index
+3277959928.index
